@@ -112,4 +112,4 @@ Respiratory peaks in winter (December index 1.47), Antihistamine peaks in spring
 
 ---
 
-*Prachi | MBA Business Analytics | Delhi Technological University*# pharma-salesforce-analytics
+*Prachi | MBA Business Analytics | Delhi Technological University*
